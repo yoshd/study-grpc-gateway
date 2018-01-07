@@ -1,0 +1,1 @@
+curl -XPOST localhost:8080/echo -d '{"value":"Hello world!"}'
